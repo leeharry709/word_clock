@@ -6,6 +6,7 @@ This word clock works by displaying different times per 5 minute intervals. For 
 
 # "Light-Up" Array
 At the beginning of the function, there is an array with a bunch of 0s and a few 1s called "light_array". This will be what determines which cells light up. Within each if and elif statement, it changes a row in the light_array and replaces corresponding cells with 1s.
+
 The array that holds all of the alphabetical letters is "text_array". This will remain static throughout the project as it is the light_array that determinmes the final output.
 
 # Diplaying the Word Clock
