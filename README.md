@@ -11,5 +11,5 @@ The array that holds all of the alphabetical letters is "text_array". This will 
 # Diplaying the Word Clock
 Displaying the word clock meant bring the information from one dataframe into another. I took the information from the light_array dataframe by reading which cells had 1s and which cells had 0s and styled the text in the text_array dataframe accordingly. Below are some examples of the output.
 
-![](https://user-images.githubusercontent.com/17789988/120967354-5947bd80-c735-11eb-83c9-60dbd1824e60.png)
-![](https://user-images.githubusercontent.com/17789988/120967376-5f3d9e80-c735-11eb-8f54-6b667c109310.png)
+![](https://github.com/leeharry709/word_clock/blob/main/media/0140s.png?raw=true)
+![](https://github.com/leeharry709/word_clock/blob/main/media/1725s.png?raw=true)
